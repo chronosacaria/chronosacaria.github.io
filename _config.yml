@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.pdf", title: "Curriculum Vitae"}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "README.md", title: "About Me"}
   - {url: "https://www.curseforge.com/members/chronos_sacaria/projects", title: "Minecraft Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
